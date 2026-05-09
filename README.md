@@ -103,7 +103,7 @@ This project follows a 3-tier client-server model:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/JKinglis/Java-Movie-Theater-Reservation-System)
+git clone https://github.com/JKinglis/Java-Movie-Theater-Reservation-System
 ```
 
 ### 2. Open the Project
