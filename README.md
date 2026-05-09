@@ -103,7 +103,7 @@ This project follows a 3-tier client-server model:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/JKinglis/Java-Movie-Theater-Reservation-System
+git clone https://github.com/JKINGLIS/Java-Movie-Theater-Reservation-System.git
 ```
 
 ### 2. Open the Project
@@ -148,16 +148,6 @@ LoginClient.java
 - Usernames and passwords require minimum lengths
 - Reservations cannot exceed available seats
 - Reservations cannot be canceled less than 1 hour before showtime
-
----
-
-## Screenshots
-
-Example:
-- Login window
-- Customer dashboard
-- DBA dashboard
-- Reservation display
 
 ---
 
